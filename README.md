@@ -102,7 +102,10 @@ This implementation follows a **feature-based RGB-D SLAM pipeline**:
    The camera pose is updated incrementally and plotted in real time.
 
 8. **Visualization**
-   A live 3D trajectory plot is displayed and saved to `trajectory.png`.
+   A live 3D trajectory plot is displayed and saved to `trajectory.png`. 
+
+9. **Distance Measurement**
+    The distance covered by the camera as estimated by the algorithm is displayed in the terminal in meters. 
 
 ## 📜 Assumptions
 
