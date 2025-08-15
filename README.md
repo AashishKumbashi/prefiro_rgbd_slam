@@ -25,9 +25,10 @@ pip install -r requirements.txt
 
 ## 📂 Data Preparation
 
-1. Copy your image folders into `data/`:
+1. Create folder and copy your image folders into `data/`:
 
    ```
+   mkdir data
    data/images_1min/
    data/depth_1min/
    ```
